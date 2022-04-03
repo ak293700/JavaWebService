@@ -1,0 +1,17 @@
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/presentation/rest/request/PlayerMoveRequestDTO.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/data/repository/PlayerRepository.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/domain/service/PlayerService.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/data/repository/GameRepository.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/presentation/rest/PlayerResource.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/utils/GameState.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/presentation/rest/response/GameResponseDTO.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/domain/entity/GameEntity.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/presentation/rest/response/PlayerResponseDTO.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/data/model/PlayerModel.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/presentation/rest/request/GameRequestDTO.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/Game/Game.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/data/model/GameModel.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/domain/entity/PlayerEntity.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/domain/service/GameService.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/presentation/rest/GameResource.java
+/Users/alexandreakdeniz/Library/CloudStorage/OneDrive-Personal/Ak2/EPITA/S6/Java/alexandre.akdeniz-jws-2024/jws/src/main/java/fr/epita/assistant/jws/utils/Vector2.java
